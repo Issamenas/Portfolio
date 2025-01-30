@@ -1,5 +1,5 @@
 export const portfolioData = {
-    name: "Menas Issam",
+    name: "Issam Menas",
     title: "Industrial Engineering | First year Data Science and Artificial Intelligence student",
     profilePicture: "/assets/images/image.jpg",
     about: "Hey! I’m a passionate developer with experience in building web applications and data science enthusiast . I’ve got a solid background in data processing, cleaning, and analytics, and I love creating impactful dashboards using Power BI. I also dive into machine learning. Whether it’s developing solutions or solving data problems, I’m always up for collaborating on innovative projects. Feel free to connect and check out my work!",

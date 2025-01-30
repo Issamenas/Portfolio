@@ -1,16 +1,35 @@
 const Experience = () => {
     const experiences = [
       {
-        company: "",
-        role: "Frontend Developer",
-        duration: "Jan 2022 - Present",
-        description: "Worked on building responsive UI with React and Tailwind CSS.",
+        company: "Mobilis",
+        role: "Data Sampling App Developer (Intern)",
+        duration: "Dec 2024",
+        description: "Developed a custom data sampling application to optimize data processing and improve operational efficiency within the company’s data workflows.",
       },
       {
-        company: "Company B",
-        role: "Web Developer Intern",
-        duration: "June 2021 - Dec 2021",
-        description: "Developed landing pages and optimized website performance.",
+        company: "Safety Case Competition",
+        role: "Team Member (IndusGPT)",
+        duration: "Jan 2025",
+        description: "Collaborated on industrial safety problem-solving and innovative solution presentation. Analyzed complex engineering scenarios and presented findings to a panel.",
+      },
+      {
+        company: "VIC Masterclass",
+        role: "Machine Learning Trainee",
+        duration: "Aug 2024",
+        description: "Completed a comprehensive masterclass focused on machine learning, deep learning, and computer vision. Gained hands-on experience through practical projects and algorithm development.",
+      },
+      
+      {
+        company: "VIC Club (Vision and Innovations Club)",
+        role: "Active Member",
+        duration: "Apr 2024 - Present",
+        description: "Participated in organizing events and engaging in design and data-related activities within the club. Supported hackathon initiatives and other collaborative projects.",
+      },
+      {
+        company: "IEC (Industrial Engineering Club)",
+        role: "IT and External Relations Member",
+        duration: "Dec 2024 - Present",
+        description: "Contributed to IT initiatives and external communication strategies while supporting club events and technical projects.",
       },
     ];
   
